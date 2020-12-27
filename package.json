@@ -1,0 +1,17 @@
+{
+  "name": "sudoku",
+  "version": "0.0.0",
+  "description": "sudoku solve",
+  "main": "index.html",
+  "scripts": {
+    "start": "index.html"
+  },
+  "engines": {
+    "node": "15.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "harp": "^0.33.0"
+  }
+}

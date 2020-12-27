@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.table1,
+.table2 {
+  background-color: #000000;
+  border: 1px solid red;
+  margin-top: 5px;
+  color: white;
+  height: 400px;
+  width: 400px;
+  font-size: 30px;
+  text-align: center
+}
+
+td {
+  border: 1px solid red;
+}
+
+.contan {
+  display: flex;
+  justify-content: space-around;
+}
+
+.button1 {
+  margin-top: 40px;
+}
+
+.button2 {
+  border-radius: 5px;
+  border: 2px blue solid;
+  background-color: turquoise;
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+}
+
+body {
+  background-image: url(https://images.wallpaperscraft.ru/image/ozero_gory_priroda_derevya_otrazhenie_nebo_voda_36589_2560x1080.jpg);
+}
+
+#vars {
+  border-radius: 5px;
+  border: 2px blue solid;
+  background-color: turquoise;
+  width: 150px;
+  height: 50px;
+  font-size: 25px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
