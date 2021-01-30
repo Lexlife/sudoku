@@ -1,4 +1,4 @@
-![Sudocu](background.png)
+![Sudoku](background.png)
 
 # Судоку
 
