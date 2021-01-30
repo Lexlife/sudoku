@@ -1,3 +1,5 @@
+![Dune](background.png)
+
 # Судоку
 
 ## Введение
